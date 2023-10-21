@@ -1,0 +1,89 @@
+[
+  {
+    "nodeId": "13",
+    "name": "thirteen",
+    "parentId": "2",
+    "previousSiblingId": "12",
+    "children": []
+  },
+  {
+    "nodeId": "14",
+    "name": "fourteen",
+    "parentId": "2",
+    "previousSiblingId": "13",
+    "children": []
+  },
+  {
+    "nodeId": "12",
+    "name": "Twelve",
+    "parentId": "2",
+    "previousSiblingId": "11",
+    "children": []
+  },
+  {
+    "nodeId": "4",
+    "name": "Four",
+    "parentId": "2",
+    "previousSiblingId": "6"
+  },
+  {
+    "nodeId": "8",
+    "name": "Eight",
+    "parentId": "7",
+    "previousSiblingId": null
+  },
+  {
+    "nodeId": "2",
+    "name": "Two",
+    "parentId": "1",
+    "previousSiblingId": null
+  },
+  {
+    "nodeId": "6",
+    "name": "Six",
+    "parentId": "2",
+    "previousSiblingId": null
+  },
+  {
+    "nodeId": "3",
+    "name": "Three",
+    "parentId": null,
+    "previousSiblingId": null
+  },
+  {
+    "nodeId": "5",
+    "name": "Five",
+    "parentId": "4",
+    "previousSiblingId": null
+  },
+  {
+    "nodeId": "7",
+    "name": "Seven",
+    "parentId": null,
+    "previousSiblingId": "1"
+  },
+  {
+    "nodeId": "9",
+    "name": "Four",
+    "parentId": "2",
+    "previousSiblingId": "4"
+  },
+  {
+    "nodeId": "10",
+    "name": "Four",
+    "parentId": "2",
+    "previousSiblingId": "11"
+  },
+  {
+    "nodeId": "11",
+    "name": "Four",
+    "parentId": "2",
+    "previousSiblingId": "9"
+  },
+  {
+    "nodeId": "1",
+    "name": "One",
+    "parentId": null,
+    "previousSiblingId": "3"
+  }
+]

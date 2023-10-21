@@ -1,0 +1,16 @@
+{
+  "name": "software-engineering-technical-assessment-main",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
